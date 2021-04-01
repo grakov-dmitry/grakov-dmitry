@@ -1,18 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <img src="img/my_preview.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+</div>
 
-### Visitor Count: 
+# Hi there 👋
+## I am a PHP developer. At the moment there is only one public repository here, which might be useful. But this is just the beginning:)
+
+
+### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/grakov-dmitry/count.svg)
-<!--
-**grakov-dmitry/grakov-dmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
